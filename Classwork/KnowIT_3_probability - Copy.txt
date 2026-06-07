@@ -1,0 +1,23 @@
+Probability
+===========
+Exercise: Use loan_approval_dataset.csv
+Find marginal probabilities of (a) getting a loan, (b) the person being a graduate
+Find joint probability that (a) a person is graduate and gets a loan (b) a person is self employed and gets a loan
+Find conditional probability of someone who is known to be not self employed not getting a loan
+
+Exercise:
+Use Sachin_Tendulkar.csv dataset
+| Type of Probability | Question |
+|---------------------|----------|
+| Marginal Probability | What is the probability that the batsman scored 0 runs? |
+| Marginal Probability | What is the probability that the opposition was Sri Lanka? |
+| Marginal Probability | What is the probability that the batsman scored 50 or more runs? |
+| Marginal Probability | What is the probability that the batsman faced more than 30 balls? |
+| Joint Probability | What is the probability that the opposition was Sri Lanka and the batsman scored at least 50 runs? |
+| Joint Probability | What is the probability that the batsman scored 0 runs and was dismissed caught? |
+| Joint Probability | What is the probability that the batsman faced more than 30 balls and scored more than 30 runs? |
+| Joint Probability | What is the probability that the opposition was Pakistan and the batsman was dismissed LBW? |
+| Conditional Probability | Given that the opposition was Sri Lanka, what is the probability that the batsman scored at least 50 runs? |
+| Conditional Probability | Given that the batsman faced more than 30 balls, what is the probability that he scored more than 30 runs? |
+| Conditional Probability | Given that the batsman scored 0 runs, what is the probability that he was dismissed caught? |
+| Conditional Probability | Given that the opposition was England, what is the probability that the batsman faced at least 25 balls? |

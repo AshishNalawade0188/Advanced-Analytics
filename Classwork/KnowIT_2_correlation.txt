@@ -1,0 +1,5 @@
+1. Use dataset https://www.kaggle.com/datasets/jacouchs/marketing-budget-and-actual-sales-dataset
+Do correlation analysis between marketing budget and actual sales columns
+
+2. Use dataset: https://www.kaggle.com/datasets/prince7489/gaming-hours-vs-academic-and-work-performance
+Find for various categories (age/gender/occupation)  weekly gaming hours impact academic or work performance
