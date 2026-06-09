@@ -1,0 +1,22 @@
+Exercise 
+Dataset: https://www.kaggle.com/datasets/PromptCloudHQ/flipkart-products)
+
+# 1. Find the Z-score of a product priced ₹1000.
+
+# 2. Find the probability that a randomly selected product has a discounted price less than ₹500.
+
+# 3. Find the probability that a randomly selected product has a discounted price greater than ₹2000.
+
+# 4. Find the probability that a randomly selected product has a discounted price between ₹500 and ₹1500.
+
+# 5. Find the discounted price corresponding to the 90th percentile.
+
+# 6. A product costs ₹1200. Determine what percentage of products are cheaper than this product.
+
+# 7. Find the discounted price corresponding to the 25th percentile.
+
+# 8. Find the discounted price corresponding to the median (50th percentile).
+
+# 9. Find the probability that a randomly selected product costs between ₹1000 and ₹3000.
+
+# 10. Find the price above which only 10% of products are more expensive.
